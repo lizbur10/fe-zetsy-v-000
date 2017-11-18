@@ -21,6 +21,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+.clearfix:after {
+	content: ".";
+}
+
 /* Write all remaining styles here */
 
 
