@@ -48,7 +48,8 @@ h2 {
 
 img {
 	transition: border-color 0.5s ease;
-	border: 3px solid rgb(198,201,200);
+	border-width: 3px; 
+	border-color: rgb(198,201,200);
 	width: 24%;
 }
 
