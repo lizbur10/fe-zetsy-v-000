@@ -21,9 +21,12 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1, h2 {
+	color: rgb(153,173,167);	
+}
+
 h1 {
 	font-family: Baskerville;
-	color: rgb(153,173,167);
 }
 
 /* Write all remaining styles here */
