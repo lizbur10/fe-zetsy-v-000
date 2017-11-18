@@ -43,6 +43,10 @@ img#beauty-shot {
 	border-color: rgb(145,162,157);
 }
 
+a {
+	text-decoration: none;
+}
+
 a img:hover {
 	border-color: rgb(93,110,104);
 }
