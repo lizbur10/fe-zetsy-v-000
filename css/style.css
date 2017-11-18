@@ -46,10 +46,14 @@ h2 {
 	font-weight: normal;
 }
 
-a img {
+img {
 	transition: border-color 0.5s ease;
 	border: 3px solid rgb(198,201,200);
 	width: 24%;
+}
+
+img:hover {
+	border-color: rgb(93,110,104);
 }
 
 img#beauty-shot {
@@ -63,10 +67,6 @@ a {
 
 a:hover {
 	text-decoration: underline;
-}
-
-a img:hover {
-	border-color: rgb(93,110,104);
 }
 
 footer p {
