@@ -23,6 +23,7 @@ body {
 
 h1, h2 {
 	color: rgb(146,162,157);
+	font-weight: normal;
 }
 
 h1 {
