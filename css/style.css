@@ -21,15 +21,18 @@ body {
 	padding: 0 45px 20px;
 }
 
-h1 {
-	color: rgb(146,162,157);
-	font-weight: normal;
-}
+
 
 h1 {
+	color: rgb(146,162,157);
 	font-family: Baskerville;
 	font-weight: normal;
 	font-size: 4em;
+}
+
+h2 {
+	color: rgb(115,132,133);
+	font-weight: normal;
 }
 
 img {
