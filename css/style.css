@@ -22,7 +22,8 @@ body {
 }
 
 h1, h2 {
-	color: rgb(102,120,115);
+	color: rgb(146,162,157);
+	font-weight: normal;
 }
 
 h1 {
