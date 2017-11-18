@@ -31,4 +31,8 @@ h1 {
 	font-size: 4em;
 }
 
+img {
+	border: 1px solid rgb(153,173,167);
+}
+
 /* Write all remaining styles here */
