@@ -47,6 +47,10 @@ a {
 	text-decoration: none;
 }
 
+a:hover {
+	text-decoration: hover;
+}
+
 a img:hover {
 	border-color: rgb(93,110,104);
 }
