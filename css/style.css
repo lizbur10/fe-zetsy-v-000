@@ -35,6 +35,10 @@ h2 {
 	font-weight: normal;
 }
 
+img {
+	border: 3px solid rgb(198,201,200);
+}
+
 img#beauty-shot {
 	border: 3px solid rgb(145,162,157);
 }
