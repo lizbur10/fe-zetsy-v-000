@@ -1,6 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+@font-face {
+	font-family: Baskerville;
+	src: url(fonts/Baskerville.ttc);
+}
 
 /*////////// Global Styles //////////*/
 
@@ -15,6 +19,10 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+h1 {
+	font-family: Baskerville;
 }
 
 /* Write all remaining styles here */
