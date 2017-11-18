@@ -51,6 +51,7 @@ img {
 }
 
 img#beauty-shot {
+	width: 100%;
 	border-color: rgb(145,162,157);
 }
 
