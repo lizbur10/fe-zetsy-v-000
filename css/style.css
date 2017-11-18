@@ -58,5 +58,6 @@ a img:hover {
 
 footer p {
 	font-size: .75em;
+	float: right;
 }
 /* Write all remaining styles here */
