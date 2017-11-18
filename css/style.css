@@ -22,12 +22,13 @@ body {
 }
 
 h1, h2 {
-	color: rgb(153,173,167);	
+	color: rgb(153,173,167);
 }
 
 h1 {
 	font-family: Baskerville;
 	font-weight: normal;
+	font-size: 4em;
 }
 
 /* Write all remaining styles here */
