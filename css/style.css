@@ -48,7 +48,7 @@ h2 {
 
 a img {
 	transition: border-color 1s ease;
-	border: 3px solid rgb(198,201,200);
+	border: 5px solid rgb(198,201,200);
 	width: 24%;
 }
 
@@ -58,7 +58,7 @@ a img:hover {
 
 #beauty-shot {
 	width: 100%;
-	border: 3px solid rgb(145,162,157);
+	border: 5px solid rgb(145,162,157);
 }
 
 a {
