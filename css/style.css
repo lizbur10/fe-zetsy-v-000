@@ -56,4 +56,7 @@ a img:hover {
 	border-color: rgb(93,110,104);
 }
 
+footer p {
+	font-size: .75em;
+}
 /* Write all remaining styles here */
