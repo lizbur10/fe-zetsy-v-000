@@ -21,7 +21,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-h1, h2 {
+h1 {
 	color: rgb(146,162,157);
 	font-weight: normal;
 }
@@ -33,7 +33,7 @@ h1 {
 }
 
 img {
-	border: 3px solid rgb(146,162,157);
+	border: 3px solid rgb(115,132,133);
 }
 
 /* Write all remaining styles here */
