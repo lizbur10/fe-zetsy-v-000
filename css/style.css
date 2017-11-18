@@ -62,12 +62,11 @@ a img:hover {
 }
 
 a {
-	transition: border-bottom 1s ease;
 	text-decoration: none;
 }
 
 a:hover {
-	border-bottom: 1px solid;
+	text-decoration: underline;
 }
 
 footer p {
