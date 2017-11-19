@@ -21,6 +21,8 @@ body {
 	padding: 0 45px 20px;
 }
 
+/* Write all remaining styles here */
+
 .clearfix:after {
 	content: ".";
 	display: block;
@@ -30,7 +32,6 @@ body {
 	line-height: 0;
 }
 
-/* Write all remaining styles here */
 p {
 	color: rgb(85,85,85);
 }
